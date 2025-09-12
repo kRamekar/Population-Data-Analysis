@@ -1,10 +1,10 @@
 # Population Trends Analysis & Forecasting
 
-A machine learning toolkit for analyzing and predicting demographic changes using UN population data. This project combines statistical forecasting methods with modern ML algorithms to help researchers and policymakers understand population dynamics.
+A machine learning toolkit for analysing and predicting demographic changes using UN population data. This project combines statistical forecasting methods with modern ML algorithms to help researchers and policymakers understand population dynamics.
 
 ## Overview
 
-This toolkit processes UN population datasets and applies multiple forecasting approaches including linear trends, polynomial fitting, exponential smoothing, and ensemble methods like Random Forest and XGBoost. The system automatically handles data cleaning, regional categorization, and generates comprehensive visualizations.
+This toolkit processes UN population datasets and applies multiple forecasting approaches including linear trends, polynomial fitting, exponential smoothing, and ensemble methods like Random Forest and XGBoost. The system automatically handles data cleaning, regional categorisation, and generates comprehensive visualisations.
 
 ## Features
 
@@ -12,7 +12,7 @@ This toolkit processes UN population datasets and applies multiple forecasting a
 - Machine learning models for population density prediction
 - Scenario analysis with configurable growth parameters
 - Automated data cleaning for UN statistical formats
-- Regional analysis and comparative visualizations
+- Regional analysis and comparative visualisations
 - Fallback options when optional dependencies are unavailable
 
 ## Requirements
@@ -215,7 +215,7 @@ min_year = 1990
 ## Limitations
 
 - Forecasting accuracy depends on historical data quality and length
-- Regional categorizations are simplified approximations
+- Regional categorisations are simplified approximations
 - Long-term projections should be interpreted cautiously
 - Model performance varies by country and data availability
 
@@ -225,9 +225,9 @@ This project welcomes contributions. Areas for enhancement include:
 
 - Additional forecasting algorithms
 - Improved regional classification systems
-- Enhanced visualization options
+- Enhanced visualisation options
 - Better handling of missing data
-- Performance optimizations for large datasets
+- Performance optimisations for large datasets
 
 ## Data Sources
 
@@ -235,6 +235,7 @@ Compatible with UN Population Division datasets including:
 - UN Statistical Yearbook population tables
 - World Population Prospects data
 - Demographic and Social Statistics
+  United Nations Statistics Division. (2024). Statistical Yearbook 2024. Sixty-seventh issue: Table 1 - Population, Surface Area and Density. Department of Economic and Social Affairs, United Nations.
 
 ## License
 
