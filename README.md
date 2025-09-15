@@ -10,7 +10,7 @@ Think of it as a comprehensive demographic analysis workshop that can predict wh
 
 ## Key Features
 
-I included multiple ways of looking at population trends - linear projections for straightforward cases, polynomial fitting for more complex patterns, and exponential smoothing for time series analysis. I added machine learning models specifically designed for population density prediction, scenario analysis where you can test different growth assumptions, and robust data cleaning that handles the quirks of UN statistical formats. I made sure to include regional analysis to help you compare different parts of the world, and I built everything with fallback options so it'll work even if you haven't got all the optional packages installed.
+I included multiple ways of looking at population trends - linear projections for straightforward cases, polynomial fitting for more complex patterns, and exponential smoothing for time series analysis. I added machine learning models specifically designed for population density prediction, scenario analysis where you can test different growth assumptions, and robust data cleaning that handles the quirks of UN statistical formats. I made sure to include regional analysis to help you compare different parts of the world, and I built everything with fallback options so that it'll work even if you haven't installed all the optional packages.
 
 To make the code output more visually appealing and engaging, I decided to try using icons and symbols throughout for the first time. This approach helps break up dense statistical text and makes it easier to spot key findings at a glance. The visual elements add some personality to what could otherwise be quite dry analytical output whilst keeping things professional.
 
